@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">  
-<a href="[https://instagram.com/myki_oliveira?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>]
+<a href="[https://instagram.com/myki_oliveira?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D""_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>]
 </div> 
  
 ### Main skills:

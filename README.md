@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Mylena+Oliveira;I'm+24+years+old+;I+live+in+Recife,+PE;I'm+Post+Graduated+in+Financial+Management;I'm+also+graduated+and+technical+in+Administration;and+currently+I'm+studying+programming+BackEnd;In+that+space+you+will+find;my+portfolio+of+personal+projects;Be+welcome!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Mylena+Oliveira;I'm+26+years+old+;I+live+in+Recife,+PE;I'm+Post+Graduated+in+Financial+Management;I'm+also+graduated+and+technical+in+Administration;and+currently+I'm+studying+programming+BackEnd;In+that+space+you+will+find;my+portfolio+of+personal+projects;Be+welcome!!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mylenaaraujo08&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=FF1493&bg_color=FFEFD5" alt="Mylena Araújo github stats " /> 
